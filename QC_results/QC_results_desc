@@ -1,6 +1,6 @@
 # all qc results for MSc project
 
-# includes
+## includes
 
 # heatmaps
 # PCA plots
@@ -10,3 +10,11 @@
 # scatter plots
 # MVA plots
 # RNA degradation plots
+
+## Fully analysed datasets
+
+# GSE1400, GSE2638, GSE2639, GSE3585, GSE3586, GSE26887, GSE42955, GSE76701
+
+## Abandoned datasets
+
+# GSE1869
