@@ -5,7 +5,7 @@ This project aims to use R Bioconductor Tools and public -omics databases ([ChIP
 
 ## This project is divided into two pipelines:
 
-![Overview of Project Workflow](assets/Workflow overview.png)
+![Overview of Project Workflow](assets/Workflow_overview.png)
 
 **ChIP-seq pipeline:** Annotates and filters a ChIP-seq .bed file from ChIP-Atlas to identify TFs binding to the first introns and promoter regions of _PXDN_ and _PXDNL_ across different cardiovascular cell lines.
 
