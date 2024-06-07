@@ -9,4 +9,4 @@ This project aims to use R Bioconductor Tools and public -omics databases ([ChIP
 
 **ChIP-seq pipeline:** Annotates and filters a ChIP-seq .bed file from ChIP-Atlas to identify TFs binding to the first introns and promoter regions of _PXDN_ and _PXDNL_ across different cardiovascular cell lines.
 
-**Microarray pipeline:** Uses exploratory data analysis (EDA) and Quality Control (QC) tools to assess the integrity of gene expression microarray datasets. Differential gene expression analysis is then conducted on datasets of sufficient integrity to explore gene expression profiles of PXDN, PXDNL and their associated TFs under various CVD-related conditions.
+**Microarray pipeline:** Uses exploratory data analysis (EDA) and Quality Control (QC) tools to assess the integrity of gene expression microarray datasets. Differential gene expression analysis is then conducted on datasets of sufficient integrity to explore gene expression profiles of _PXDN_, _PXDNL_ and their associated TFs under various CVD-related conditions.
